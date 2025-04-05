@@ -16,4 +16,7 @@ Yo News combines modern web development practices with an elegant aesthetic to d
 - Elegant design tailored for news content
 - Open-source, fostering collaboration and customization
 
-*Note*: For detailed features and technical specifics, refer to the GitHub repository or live site.
+## part of yoprojects
+its a part of the grand project of yoprojects 
+- **Live Site**: [https://shubhamnpk.github.io/yo-guru/](https://shubhamnpk.github.io/yo-guru/)
+
